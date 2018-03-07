@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'GothamBook';
+    src: url('../fonts/GothamBook.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/GothamBook.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/GothamBook.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/GothamBook.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/GothamBook.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/GothamBook.svg#svgGothamBook') format('svg'); /* Legacy iOS */
+  }
+  @font-face {
+    font-family: 'GothamLight';
+    src: url('../fonts/GothamLight.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/GothamLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/GothamLight.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/GothamLight.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/GothamLight.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/GothamLight.svg#svgGothamLight') format('svg'); /* Legacy iOS */
+  }
+  @font-face {
+    font-family: 'GothamMedium';
+    src: url('../fonts/GothamMedium.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/GothamMedium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/GothamMedium.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/GothamMedium.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/GothamMedium.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/GothamMedium.svg#svgGothamMedium') format('svg'); /* Legacy iOS */
+  }
